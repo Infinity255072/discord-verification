@@ -12,3 +12,4 @@ Ich benutze zum coding des Bots "py-cord".
 - Sichert wichtige Daten wie den Bot Token in einer .env Umgebung.
 - Verwaltet ein BEEHIIV Newsletter für die Community.
 - User können sich über Discord direkt Vorstellen, um Zugriff auf mehr Funktionen der Community zu bekommen und den Verifikationsprozess abzuschließen.
+- Schickt in einen Log Kanal Infos zum Account, wenn eine Person dem Server beitritt. Darunter sind z.B Account Alter (um neu erstellte Accounts leichter zu erkennen) und mehr.
